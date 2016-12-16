@@ -1,0 +1,6709 @@
+{
+  "units": "kW",
+  "data": [
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2286,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.4119,
+      "Outlet": 0,
+      "x": "2016-10-21T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.228,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0111,
+      "Lights": 0.4125,
+      "Outlet": 0,
+      "x": "2016-10-21T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2279,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0277,
+      "Lights": 0.4115,
+      "Outlet": 0,
+      "x": "2016-10-21T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2274,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1524,
+      "Outlet": 0,
+      "x": "2016-10-21T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2272,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.227,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.227,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2271,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2273,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2275,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2283,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2291,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1458,
+      "Outlet": 0,
+      "x": "2016-10-21T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2291,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-10-21T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2295,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0271,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-10-21T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2297,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0324,
+      "Lights": 0.2416,
+      "Outlet": 0,
+      "x": "2016-10-21T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2298,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0199,
+      "Lights": 0.2413,
+      "Outlet": 0,
+      "x": "2016-10-21T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2297,
+      "Outlet-3": 0.0163,
+      "Pull Down Outlet": 0.0418,
+      "Lights": 0.2414,
+      "Outlet": 0,
+      "x": "2016-10-21T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2294,
+      "Outlet-3": 0.051,
+      "Pull Down Outlet": 0.0192,
+      "Lights": 0.2413,
+      "Outlet": 0,
+      "x": "2016-10-21T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2294,
+      "Outlet-3": 0.0913,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2116,
+      "Outlet": 0,
+      "x": "2016-10-21T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2289,
+      "Outlet-3": 0.0909,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.229,
+      "Outlet-3": 0.0801,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-21T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2286,
+      "Outlet-3": 0.0068,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1711,
+      "Outlet": 0,
+      "x": "2016-10-21T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2288,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.241,
+      "Outlet": 0,
+      "x": "2016-10-21T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2284,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2409,
+      "Outlet": 0,
+      "x": "2016-10-22T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2282,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2407,
+      "Outlet": 0,
+      "x": "2016-10-22T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2282,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2406,
+      "Outlet": 0,
+      "x": "2016-10-22T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0786,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2299,
+      "Outlet": 0,
+      "x": "2016-10-22T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.021,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0202,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-22T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1185,
+      "Outlet": 0,
+      "x": "2016-10-22T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-10-22T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0114,
+      "Lights": 0.2413,
+      "Outlet": 0,
+      "x": "2016-10-22T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0346,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-10-22T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2412,
+      "Outlet": 0,
+      "x": "2016-10-22T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0432,
+      "Lights": 0.241,
+      "Outlet": 0,
+      "x": "2016-10-22T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0.016,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2412,
+      "Outlet": 0,
+      "x": "2016-10-22T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0208,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0176,
+      "Lights": 0.2412,
+      "Outlet": 0,
+      "x": "2016-10-22T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.038,
+      "Lights": 0.2413,
+      "Outlet": 0,
+      "x": "2016-10-22T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.04,
+      "Lights": 0.2411,
+      "Outlet": 0,
+      "x": "2016-10-22T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0519,
+      "Lights": 0.2411,
+      "Outlet": 0,
+      "x": "2016-10-22T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0337,
+      "Lights": 0.2408,
+      "Outlet": 0,
+      "x": "2016-10-22T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2406,
+      "Outlet": 0,
+      "x": "2016-10-23T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2407,
+      "Outlet": 0,
+      "x": "2016-10-23T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1328,
+      "Outlet": 0,
+      "x": "2016-10-23T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0208,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.02,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1087,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-23T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0.0156,
+      "Pull Down Outlet": 0.0482,
+      "Lights": 0.0191,
+      "Outlet": 0,
+      "x": "2016-10-23T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0.061,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0984,
+      "Outlet": 0,
+      "x": "2016-10-23T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1396,
+      "Outlet": 0,
+      "x": "2016-10-23T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2524,
+      "Outlet": 0,
+      "x": "2016-10-24T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0978,
+      "Outlet": 0,
+      "x": "2016-10-24T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0978,
+      "Outlet": 0,
+      "x": "2016-10-24T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0308,
+      "Outlet": 0,
+      "x": "2016-10-24T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0209,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-24T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.13,
+      "Outlet": 0,
+      "x": "2016-10-24T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2418,
+      "Outlet": 0,
+      "x": "2016-10-24T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0132,
+      "Lights": 0.241,
+      "Outlet": 0,
+      "x": "2016-10-24T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0478,
+      "Lights": 0.1672,
+      "Outlet": 0,
+      "x": "2016-10-24T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0354,
+      "Lights": 0.236,
+      "Outlet": 0,
+      "x": "2016-10-24T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2412,
+      "Outlet": 0,
+      "x": "2016-10-24T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-10-24T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1801,
+      "Outlet": 0,
+      "x": "2016-10-24T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1427,
+      "Outlet": 0,
+      "x": "2016-10-24T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0638,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0351,
+      "Lights": 0.1424,
+      "Outlet": 0,
+      "x": "2016-10-24T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0589,
+      "Outlet-3": 0.017,
+      "Pull Down Outlet": 0.034,
+      "Lights": 0.1427,
+      "Outlet": 0,
+      "x": "2016-10-24T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0208,
+      "Outlet-3": 0.0214,
+      "Pull Down Outlet": 0.09,
+      "Lights": 0.1428,
+      "Outlet": 0,
+      "x": "2016-10-24T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0477,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0633,
+      "Lights": 0.1427,
+      "Outlet": 0,
+      "x": "2016-10-25T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.1107,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0281,
+      "Lights": 0.1424,
+      "Outlet": 0,
+      "x": "2016-10-25T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0498,
+      "Outlet-3": 0.0276,
+      "Pull Down Outlet": 0.0428,
+      "Lights": 0.1282,
+      "Outlet": 0,
+      "x": "2016-10-25T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0.018,
+      "Pull Down Outlet": 0.0629,
+      "Lights": 0.0562,
+      "Outlet": 0,
+      "x": "2016-10-25T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0209,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0201,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2848,
+      "Outlet": 0,
+      "x": "2016-10-25T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.296,
+      "Outlet": 0,
+      "x": "2016-10-25T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2972,
+      "Outlet": 0,
+      "x": "2016-10-25T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2969,
+      "Outlet": 0,
+      "x": "2016-10-25T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0114,
+      "Outlet-2": 0.0208,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0311,
+      "Lights": 0.2526,
+      "Outlet": 0,
+      "x": "2016-10-25T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0459,
+      "Lights": 0.2177,
+      "Outlet": 0,
+      "x": "2016-10-25T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0583,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0403,
+      "Lights": 0.298,
+      "Outlet": 0,
+      "x": "2016-10-25T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0265,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0283,
+      "Lights": 0.0275,
+      "Outlet": 0,
+      "x": "2016-10-25T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0208,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0109,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-25T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0.0108,
+      "Pull Down Outlet": 0.0244,
+      "Lights": 0.2523,
+      "Outlet": 0,
+      "x": "2016-10-25T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0403,
+      "Outlet-3": 0.0528,
+      "Pull Down Outlet": 0.0609,
+      "Lights": 0.3344,
+      "Outlet": 0,
+      "x": "2016-10-25T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0.009,
+      "Outlet-2": 0.0539,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0621,
+      "Lights": 0.336,
+      "Outlet": 0,
+      "x": "2016-10-26T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0338,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0973,
+      "Lights": 0.3357,
+      "Outlet": 0,
+      "x": "2016-10-26T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0211,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0948,
+      "Lights": 0.3361,
+      "Outlet": 0,
+      "x": "2016-10-26T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0211,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.102,
+      "Lights": 0.2926,
+      "Outlet": 0,
+      "x": "2016-10-26T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0211,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0597,
+      "Lights": 0.1854,
+      "Outlet": 0,
+      "x": "2016-10-26T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0564,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-26T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0207,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0248,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-26T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-26T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0206,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-26T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.02,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-26T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-26T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-26T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0203,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1247,
+      "Outlet": 0,
+      "x": "2016-10-26T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0305,
+      "Lights": 0.2865,
+      "Outlet": 0,
+      "x": "2016-10-26T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0204,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0613,
+      "Lights": 0.2524,
+      "Outlet": 0,
+      "x": "2016-10-26T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0428,
+      "Lights": 0.1275,
+      "Outlet": 0,
+      "x": "2016-10-26T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.024,
+      "Outlet-3": 0.0194,
+      "Pull Down Outlet": 0.0393,
+      "Lights": 0.2039,
+      "Outlet": 0,
+      "x": "2016-10-26T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0226,
+      "Outlet-3": 0.0265,
+      "Pull Down Outlet": 0.066,
+      "Lights": 0.2111,
+      "Outlet": 0,
+      "x": "2016-10-26T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0348,
+      "Outlet-3": 0.0326,
+      "Pull Down Outlet": 0.1519,
+      "Lights": 0.2411,
+      "Outlet": 0,
+      "x": "2016-10-26T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0582,
+      "Outlet-3": 0.0965,
+      "Pull Down Outlet": 0.134,
+      "Lights": 0.2662,
+      "Outlet": 0,
+      "x": "2016-10-26T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2347,
+      "Outlet-3": 0.0804,
+      "Pull Down Outlet": 0.0739,
+      "Lights": 0.232,
+      "Outlet": 0,
+      "x": "2016-10-26T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2269,
+      "Outlet-3": 0.0665,
+      "Pull Down Outlet": 0.0952,
+      "Lights": 0.2271,
+      "Outlet": 0,
+      "x": "2016-10-26T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2259,
+      "Outlet-3": 0.0491,
+      "Pull Down Outlet": 0.0367,
+      "Lights": 0.2333,
+      "Outlet": 0,
+      "x": "2016-10-26T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2263,
+      "Outlet-3": 0.0435,
+      "Pull Down Outlet": 0.1188,
+      "Lights": 0.2668,
+      "Outlet": 0,
+      "x": "2016-10-26T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2265,
+      "Outlet-3": 0.0449,
+      "Pull Down Outlet": 0.0836,
+      "Lights": 0.2682,
+      "Outlet": 0,
+      "x": "2016-10-27T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0.0429,
+      "Pull Down Outlet": 0.0839,
+      "Lights": 0.2682,
+      "Outlet": 0,
+      "x": "2016-10-27T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2259,
+      "Outlet-3": 0.0434,
+      "Pull Down Outlet": 0.0681,
+      "Lights": 0.2682,
+      "Outlet": 0,
+      "x": "2016-10-27T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2269,
+      "Outlet-3": 0.0466,
+      "Pull Down Outlet": 0.0386,
+      "Lights": 0.2254,
+      "Outlet": 0,
+      "x": "2016-10-27T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2269,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0127,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2273,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2276,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2279,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2284,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2287,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2236,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2294,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-27T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2293,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.096,
+      "Outlet": 0,
+      "x": "2016-10-27T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2295,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2417,
+      "Outlet": 0,
+      "x": "2016-10-27T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2296,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2412,
+      "Outlet": 0,
+      "x": "2016-10-27T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.229,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1327,
+      "Lights": 0.2416,
+      "Outlet": 0,
+      "x": "2016-10-27T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2273,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2024,
+      "Lights": 0.165,
+      "Outlet": 0,
+      "x": "2016-10-27T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1619,
+      "Lights": 0.1432,
+      "Outlet": 0,
+      "x": "2016-10-27T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2262,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1041,
+      "Lights": 0.1433,
+      "Outlet": 0,
+      "x": "2016-10-27T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2261,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0842,
+      "Lights": 0.346,
+      "Outlet": 0,
+      "x": "2016-10-27T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.177,
+      "Lights": 0.4102,
+      "Outlet": 0,
+      "x": "2016-10-27T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0977,
+      "Lights": 0.4113,
+      "Outlet": 0,
+      "x": "2016-10-27T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2265,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0619,
+      "Lights": 0.4106,
+      "Outlet": 0,
+      "x": "2016-10-27T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2265,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0655,
+      "Lights": 0.411,
+      "Outlet": 0,
+      "x": "2016-10-27T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2267,
+      "Outlet-3": 0.0056,
+      "Pull Down Outlet": 0.1111,
+      "Lights": 0.4112,
+      "Outlet": 0,
+      "x": "2016-10-28T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0.0736,
+      "Pull Down Outlet": 0.0394,
+      "Lights": 0.4118,
+      "Outlet": 0,
+      "x": "2016-10-28T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2263,
+      "Outlet-3": 0.0715,
+      "Pull Down Outlet": 0.0123,
+      "Lights": 0.3655,
+      "Outlet": 0,
+      "x": "2016-10-28T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2261,
+      "Outlet-3": 0.0187,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2257,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2255,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2257,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2266,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2268,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2212,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-28T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2276,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0934,
+      "Outlet": 0,
+      "x": "2016-10-28T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2282,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0315,
+      "Lights": 0.2421,
+      "Outlet": 0,
+      "x": "2016-10-28T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2282,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.033,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-10-28T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2277,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0426,
+      "Lights": 0.241,
+      "Outlet": 0,
+      "x": "2016-10-28T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2279,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2009,
+      "Outlet": 0,
+      "x": "2016-10-28T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2352,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0519,
+      "Lights": 0.1732,
+      "Outlet": 0,
+      "x": "2016-10-28T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2543,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0345,
+      "Lights": 0.2383,
+      "Outlet": 0,
+      "x": "2016-10-28T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2263,
+      "Outlet-3": 0.0296,
+      "Pull Down Outlet": 0.0559,
+      "Lights": 0.2386,
+      "Outlet": 0,
+      "x": "2016-10-28T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0.0259,
+      "Pull Down Outlet": 0.0913,
+      "Lights": 0.239,
+      "Outlet": 0,
+      "x": "2016-10-28T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2267,
+      "Outlet-3": 0.0188,
+      "Pull Down Outlet": 0.0884,
+      "Lights": 0.2396,
+      "Outlet": 0,
+      "x": "2016-10-28T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2296,
+      "Outlet-3": 0.0218,
+      "Pull Down Outlet": 0.0589,
+      "Lights": 0.2396,
+      "Outlet": 0,
+      "x": "2016-10-28T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2267,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.023,
+      "Lights": 0.2405,
+      "Outlet": 0,
+      "x": "2016-10-28T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2267,
+      "Outlet-3": 0.0063,
+      "Pull Down Outlet": 0.029,
+      "Lights": 0.2389,
+      "Outlet": 0,
+      "x": "2016-10-29T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2265,
+      "Outlet-3": 0.0141,
+      "Pull Down Outlet": 0.01,
+      "Lights": 0.1606,
+      "Outlet": 0,
+      "x": "2016-10-29T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2271,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2392,
+      "Outlet": 0,
+      "x": "2016-10-29T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.227,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0264,
+      "Lights": 0.187,
+      "Outlet": 0,
+      "x": "2016-10-29T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2266,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2263,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2268,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.227,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2272,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2275,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2235,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.228,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2282,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-29T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2281,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1467,
+      "Outlet": 0,
+      "x": "2016-10-29T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.228,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2418,
+      "Outlet": 0,
+      "x": "2016-10-29T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2283,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2416,
+      "Outlet": 0,
+      "x": "2016-10-29T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2283,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2414,
+      "Outlet": 0,
+      "x": "2016-10-29T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2281,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-10-29T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2277,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0665,
+      "Lights": 0.2416,
+      "Outlet": 0,
+      "x": "2016-10-29T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0069,
+      "Outlet-2": 0.2275,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1219,
+      "Lights": 0.1959,
+      "Outlet": 0,
+      "x": "2016-10-29T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2614,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0224,
+      "Lights": 0.2416,
+      "Outlet": 0,
+      "x": "2016-10-29T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2299,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2258,
+      "Outlet": 0,
+      "x": "2016-10-29T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2266,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0337,
+      "Outlet": 0,
+      "x": "2016-10-29T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2246,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2233,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0074,
+      "Outlet": 0,
+      "x": "2016-10-30T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2243,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0977,
+      "Outlet": 0,
+      "x": "2016-10-30T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2261,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0148,
+      "Outlet": 0,
+      "x": "2016-10-30T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2254,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2254,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2251,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2251,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2252,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2254,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2257,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.221,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2268,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2262,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2259,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2257,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2256,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2253,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2256,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-30T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1611,
+      "Outlet": 0,
+      "x": "2016-10-30T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2263,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2418,
+      "Outlet": 0,
+      "x": "2016-10-30T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2413,
+      "Outlet": 0,
+      "x": "2016-10-30T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2414,
+      "Outlet": 0,
+      "x": "2016-10-31T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2254,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2413,
+      "Outlet": 0,
+      "x": "2016-10-31T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2254,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2414,
+      "Outlet": 0,
+      "x": "2016-10-31T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2252,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1716,
+      "Outlet": 0,
+      "x": "2016-10-31T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2253,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2253,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2258,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.226,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2264,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2269,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2277,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2283,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-10-31T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2286,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1661,
+      "Outlet": 0,
+      "x": "2016-10-31T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2247,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2431,
+      "Outlet": 0,
+      "x": "2016-10-31T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2282,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0452,
+      "Lights": 0.2426,
+      "Outlet": 0,
+      "x": "2016-10-31T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2271,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0356,
+      "Lights": 0.2734,
+      "Outlet": 0,
+      "x": "2016-10-31T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2269,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0723,
+      "Lights": 0.4108,
+      "Outlet": 0,
+      "x": "2016-10-31T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2265,
+      "Outlet-3": 0.0169,
+      "Pull Down Outlet": 0.1311,
+      "Lights": 0.4093,
+      "Outlet": 0,
+      "x": "2016-10-31T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2277,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2225,
+      "Lights": 0.4085,
+      "Outlet": 0,
+      "x": "2016-10-31T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2283,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2226,
+      "Lights": 0.4087,
+      "Outlet": 0,
+      "x": "2016-10-31T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2281,
+      "Outlet-3": 0.0663,
+      "Pull Down Outlet": 0.2016,
+      "Lights": 0.4106,
+      "Outlet": 0,
+      "x": "2016-10-31T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2276,
+      "Outlet-3": 0.0822,
+      "Pull Down Outlet": 0.1863,
+      "Lights": 0.4113,
+      "Outlet": 0,
+      "x": "2016-10-31T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2277,
+      "Outlet-3": 0.0712,
+      "Pull Down Outlet": 0.2154,
+      "Lights": 0.341,
+      "Outlet": 0,
+      "x": "2016-10-31T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2278,
+      "Outlet-3": 0.052,
+      "Pull Down Outlet": 0.1819,
+      "Lights": 0.1568,
+      "Outlet": 0,
+      "x": "2016-10-31T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2275,
+      "Outlet-3": 0.0548,
+      "Pull Down Outlet": 0.0843,
+      "Lights": 0.1536,
+      "Outlet": 0,
+      "x": "2016-11-01T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.227,
+      "Outlet-3": 0.0495,
+      "Pull Down Outlet": 0.1722,
+      "Lights": 0.2884,
+      "Outlet": 0,
+      "x": "2016-11-01T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2268,
+      "Outlet-3": 0.0586,
+      "Pull Down Outlet": 0.0867,
+      "Lights": 0.1995,
+      "Outlet": 0,
+      "x": "2016-11-01T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2262,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1725,
+      "Outlet": 0,
+      "x": "2016-11-01T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2257,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0404,
+      "Lights": 0.0574,
+      "Outlet": 0,
+      "x": "2016-11-01T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2253,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0973,
+      "Lights": 0.0383,
+      "Outlet": 0,
+      "x": "2016-11-01T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2252,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0079,
+      "Lights": 0.0176,
+      "Outlet": 0,
+      "x": "2016-11-01T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2253,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-01T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2255,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-01T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2262,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-01T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2265,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-01T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2273,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0663,
+      "Outlet": 0,
+      "x": "2016-11-01T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2279,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2427,
+      "Outlet": 0,
+      "x": "2016-11-01T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2213,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1743,
+      "Outlet": 0,
+      "x": "2016-11-01T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2284,
+      "Outlet-3": 0.0343,
+      "Pull Down Outlet": 0.0397,
+      "Lights": 0.2427,
+      "Outlet": 0,
+      "x": "2016-11-01T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.2281,
+      "Outlet-3": 0.0325,
+      "Pull Down Outlet": 0.0503,
+      "Lights": 0.2421,
+      "Outlet": 0,
+      "x": "2016-11-01T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0791,
+      "Outlet-3": 0.0453,
+      "Pull Down Outlet": 0.212,
+      "Lights": 0.1317,
+      "Outlet": 0,
+      "x": "2016-11-01T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2186,
+      "Lights": 0.0993,
+      "Outlet": 0,
+      "x": "2016-11-01T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1395,
+      "Lights": 0.0989,
+      "Outlet": 0,
+      "x": "2016-11-01T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1026,
+      "Lights": 0.238,
+      "Outlet": 0,
+      "x": "2016-11-01T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0552,
+      "Lights": 0.2428,
+      "Outlet": 0,
+      "x": "2016-11-01T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0301,
+      "Lights": 0.2428,
+      "Outlet": 0,
+      "x": "2016-11-01T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0462,
+      "Lights": 0.2429,
+      "Outlet": 0,
+      "x": "2016-11-01T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0794,
+      "Lights": 0.2428,
+      "Outlet": 0,
+      "x": "2016-11-01T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1317,
+      "Lights": 0.2419,
+      "Outlet": 0,
+      "x": "2016-11-02T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1102,
+      "Lights": 0.1754,
+      "Outlet": 0,
+      "x": "2016-11-02T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0722,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0467,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-02T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0117,
+      "Lights": 0.2898,
+      "Outlet": 0,
+      "x": "2016-11-02T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0396,
+      "Lights": 0.41,
+      "Outlet": 0,
+      "x": "2016-11-02T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0385,
+      "Lights": 0.4096,
+      "Outlet": 0,
+      "x": "2016-11-02T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0401,
+      "Lights": 0.4086,
+      "Outlet": 0,
+      "x": "2016-11-02T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0592,
+      "Lights": 0.4094,
+      "Outlet": 0,
+      "x": "2016-11-02T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1485,
+      "Lights": 0.4092,
+      "Outlet": 0,
+      "x": "2016-11-02T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0676,
+      "Pull Down Outlet": 0.1825,
+      "Lights": 0.4098,
+      "Outlet": 0,
+      "x": "2016-11-02T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0247,
+      "Outlet-3": 0.0082,
+      "Pull Down Outlet": 0.0641,
+      "Lights": 0.4087,
+      "Outlet": 0,
+      "x": "2016-11-02T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0337,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1827,
+      "Lights": 0.4084,
+      "Outlet": 0,
+      "x": "2016-11-02T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0831,
+      "Lights": 0.4084,
+      "Outlet": 0,
+      "x": "2016-11-02T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0649,
+      "Outlet-2": 0.0223,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0272,
+      "Lights": 0.2623,
+      "Outlet": 0,
+      "x": "2016-11-02T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0912,
+      "Outlet-2": 0.0589,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.167,
+      "Outlet": 0,
+      "x": "2016-11-02T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0186,
+      "Outlet-2": 0.0355,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1677,
+      "Outlet": 0,
+      "x": "2016-11-03T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0109,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0474,
+      "Lights": 0.0893,
+      "Outlet": 0,
+      "x": "2016-11-03T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1303,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.136,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0996,
+      "Lights": 0.0202,
+      "Outlet": 0,
+      "x": "2016-11-03T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0133,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-03T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0627,
+      "Outlet": 0,
+      "x": "2016-11-03T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-03T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-03T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0601,
+      "Lights": 0.2429,
+      "Outlet": 0,
+      "x": "2016-11-03T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0724,
+      "Lights": 0.2019,
+      "Outlet": 0,
+      "x": "2016-11-03T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0135,
+      "Pull Down Outlet": 0.0702,
+      "Lights": 0.2429,
+      "Outlet": 0,
+      "x": "2016-11-03T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0548,
+      "Pull Down Outlet": 0.1111,
+      "Lights": 0.2224,
+      "Outlet": 0,
+      "x": "2016-11-03T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0053,
+      "Pull Down Outlet": 0.052,
+      "Lights": 0.2382,
+      "Outlet": 0,
+      "x": "2016-11-03T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.067,
+      "Lights": 0.2429,
+      "Outlet": 0,
+      "x": "2016-11-03T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0454,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-03T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0339,
+      "Pull Down Outlet": 0.0954,
+      "Lights": 0.1444,
+      "Outlet": 0,
+      "x": "2016-11-03T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0409,
+      "Pull Down Outlet": 0.0109,
+      "Lights": 0.2407,
+      "Outlet": 0,
+      "x": "2016-11-03T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0484,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2426,
+      "Outlet": 0,
+      "x": "2016-11-04T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0529,
+      "Outlet-3": 0.0616,
+      "Pull Down Outlet": 0.0342,
+      "Lights": 0.2129,
+      "Outlet": 0,
+      "x": "2016-11-04T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0412,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0382,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0511,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-04T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0228,
+      "Lights": 0.1801,
+      "Outlet": 0,
+      "x": "2016-11-04T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.092,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-04T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1126,
+      "Lights": 0.2389,
+      "Outlet": 0,
+      "x": "2016-11-04T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1337,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-04T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1304,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-04T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0522,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0978,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-04T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0053,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1251,
+      "Lights": 0.2433,
+      "Outlet": 0,
+      "x": "2016-11-04T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1752,
+      "Lights": 0.2436,
+      "Outlet": 0,
+      "x": "2016-11-04T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0135,
+      "Pull Down Outlet": 0.1543,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-04T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0933,
+      "Pull Down Outlet": 0.1433,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-04T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.071,
+      "Pull Down Outlet": 0.1072,
+      "Lights": 0.2431,
+      "Outlet": 0,
+      "x": "2016-11-04T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.152,
+      "Lights": 0.2427,
+      "Outlet": 0,
+      "x": "2016-11-04T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1889,
+      "Lights": 0.2427,
+      "Outlet": 0,
+      "x": "2016-11-04T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1392,
+      "Lights": 0.2423,
+      "Outlet": 0,
+      "x": "2016-11-05T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0902,
+      "Lights": 0.242,
+      "Outlet": 0,
+      "x": "2016-11-05T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0703,
+      "Lights": 0.2417,
+      "Outlet": 0,
+      "x": "2016-11-05T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.031,
+      "Lights": 0.2417,
+      "Outlet": 0,
+      "x": "2016-11-05T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0316,
+      "Outlet": 0,
+      "x": "2016-11-05T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-05T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-05T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-05T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-05T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-05T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-05T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0325,
+      "Lights": 0.2443,
+      "Outlet": 0,
+      "x": "2016-11-05T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0861,
+      "Lights": 0.2433,
+      "Outlet": 0,
+      "x": "2016-11-05T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1528,
+      "Lights": 0.2436,
+      "Outlet": 0,
+      "x": "2016-11-05T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1656,
+      "Lights": 0.2381,
+      "Outlet": 0,
+      "x": "2016-11-05T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1495,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-05T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1293,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-05T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1069,
+      "Lights": 0.2431,
+      "Outlet": 0,
+      "x": "2016-11-05T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1073,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-05T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.065,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-05T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0766,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-05T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1105,
+      "Lights": 0.2427,
+      "Outlet": 0,
+      "x": "2016-11-05T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0158,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1146,
+      "Lights": 0.2423,
+      "Outlet": 0,
+      "x": "2016-11-05T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0874,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1243,
+      "Lights": 0.2422,
+      "Outlet": 0,
+      "x": "2016-11-05T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0265,
+      "Outlet-2": 0.049,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0806,
+      "Lights": 0.2422,
+      "Outlet": 0,
+      "x": "2016-11-06T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0338,
+      "Outlet-2": 0.0746,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0993,
+      "Lights": 0.2423,
+      "Outlet": 0,
+      "x": "2016-11-06T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0188,
+      "Outlet-2": 0.0386,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.115,
+      "Lights": 0.242,
+      "Outlet": 0,
+      "x": "2016-11-06T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0154,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0739,
+      "Lights": 0.2416,
+      "Outlet": 0,
+      "x": "2016-11-06T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0631,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-11-06T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0425,
+      "Lights": 0.2414,
+      "Outlet": 0,
+      "x": "2016-11-06T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0413,
+      "Lights": 0.2411,
+      "Outlet": 0,
+      "x": "2016-11-06T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0413,
+      "Lights": 0.2412,
+      "Outlet": 0,
+      "x": "2016-11-06T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0413,
+      "Lights": 0.2403,
+      "Outlet": 0,
+      "x": "2016-11-06T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0111,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-06T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.092,
+      "Outlet": 0,
+      "x": "2016-11-06T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2428,
+      "Outlet": 0,
+      "x": "2016-11-06T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0405,
+      "Lights": 0.2427,
+      "Outlet": 0,
+      "x": "2016-11-06T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.092,
+      "Lights": 0.2426,
+      "Outlet": 0,
+      "x": "2016-11-06T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.073,
+      "Lights": 0.2424,
+      "Outlet": 0,
+      "x": "2016-11-06T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0913,
+      "Lights": 0.2419,
+      "Outlet": 0,
+      "x": "2016-11-06T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1861,
+      "Lights": 0.2418,
+      "Outlet": 0,
+      "x": "2016-11-06T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.212,
+      "Lights": 0.2416,
+      "Outlet": 0,
+      "x": "2016-11-07T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2178,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-11-07T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0247,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.149,
+      "Lights": 0.2415,
+      "Outlet": 0,
+      "x": "2016-11-07T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0633,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1239,
+      "Lights": 0.1744,
+      "Outlet": 0,
+      "x": "2016-11-07T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0908,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1571,
+      "Lights": 0.1431,
+      "Outlet": 0,
+      "x": "2016-11-07T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1575,
+      "Lights": 0.1428,
+      "Outlet": 0,
+      "x": "2016-11-07T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0889,
+      "Lights": 0.1428,
+      "Outlet": 0,
+      "x": "2016-11-07T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0087,
+      "Lights": 0.1428,
+      "Outlet": 0,
+      "x": "2016-11-07T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1429,
+      "Outlet": 0,
+      "x": "2016-11-07T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.143,
+      "Outlet": 0,
+      "x": "2016-11-07T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.143,
+      "Outlet": 0,
+      "x": "2016-11-07T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1431,
+      "Outlet": 0,
+      "x": "2016-11-07T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1433,
+      "Outlet": 0,
+      "x": "2016-11-07T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2046,
+      "Outlet": 0,
+      "x": "2016-11-07T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0309,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-07T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.133,
+      "Lights": 0.2351,
+      "Outlet": 0,
+      "x": "2016-11-07T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1388,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-07T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0176,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1203,
+      "Lights": 0.2433,
+      "Outlet": 0,
+      "x": "2016-11-07T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0652,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1592,
+      "Lights": 0.2433,
+      "Outlet": 0,
+      "x": "2016-11-07T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0556,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3655,
+      "Lights": 0.2421,
+      "Outlet": 0,
+      "x": "2016-11-07T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2999,
+      "Lights": 0.1846,
+      "Outlet": 0,
+      "x": "2016-11-07T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.007,
+      "Pull Down Outlet": 0.282,
+      "Lights": 0.1412,
+      "Outlet": 0,
+      "x": "2016-11-07T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0571,
+      "Pull Down Outlet": 0.3438,
+      "Lights": 0.1446,
+      "Outlet": 0,
+      "x": "2016-11-07T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2806,
+      "Lights": 0.1317,
+      "Outlet": 0,
+      "x": "2016-11-07T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0539,
+      "Lights": 0.1445,
+      "Outlet": 0,
+      "x": "2016-11-08T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0606,
+      "Lights": 0.1991,
+      "Outlet": 0,
+      "x": "2016-11-08T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0359,
+      "Outlet-2": 0.033,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0654,
+      "Lights": 0.3462,
+      "Outlet": 0,
+      "x": "2016-11-08T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0793,
+      "Outlet-2": 0.0178,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0793,
+      "Lights": 0.3474,
+      "Outlet": 0,
+      "x": "2016-11-08T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0.008,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0668,
+      "Lights": 0.3498,
+      "Outlet": 0,
+      "x": "2016-11-08T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0967,
+      "Lights": 0.0461,
+      "Outlet": 0,
+      "x": "2016-11-08T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0166,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-08T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.043,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-08T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.045,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-08T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0135,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-08T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0081,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-08T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-08T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0057,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-08T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0078,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1021,
+      "Outlet": 0,
+      "x": "2016-11-08T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0551,
+      "Lights": 0.2436,
+      "Outlet": 0,
+      "x": "2016-11-08T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0996,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-08T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1279,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-08T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2371,
+      "Lights": 0.2606,
+      "Outlet": 0,
+      "x": "2016-11-08T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1652,
+      "Lights": 0.3105,
+      "Outlet": 0,
+      "x": "2016-11-08T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0415,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2897,
+      "Lights": 0.3107,
+      "Outlet": 0,
+      "x": "2016-11-08T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0205,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.151,
+      "Lights": 0.4046,
+      "Outlet": 0,
+      "x": "2016-11-08T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.19,
+      "Lights": 0.4104,
+      "Outlet": 0,
+      "x": "2016-11-08T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1256,
+      "Lights": 0.4105,
+      "Outlet": 0,
+      "x": "2016-11-08T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.061,
+      "Lights": 0.4118,
+      "Outlet": 0,
+      "x": "2016-11-08T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1444,
+      "Lights": 0.4119,
+      "Outlet": 0,
+      "x": "2016-11-09T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3219,
+      "Lights": 0.4126,
+      "Outlet": 0,
+      "x": "2016-11-09T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2289,
+      "Lights": 0.412,
+      "Outlet": 0,
+      "x": "2016-11-09T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1776,
+      "Lights": 0.2257,
+      "Outlet": 0,
+      "x": "2016-11-09T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1232,
+      "Lights": 0.0695,
+      "Outlet": 0,
+      "x": "2016-11-09T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1344,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-09T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0538,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-09T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0219,
+      "Lights": 0.0209,
+      "Outlet": 0,
+      "x": "2016-11-09T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0251,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-09T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-09T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-09T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-09T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-09T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0235,
+      "Lights": 0.1033,
+      "Outlet": 0,
+      "x": "2016-11-09T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2436,
+      "Outlet": 0,
+      "x": "2016-11-09T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-09T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0418,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-09T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0194,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0496,
+      "Lights": 0.2429,
+      "Outlet": 0,
+      "x": "2016-11-09T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.087,
+      "Lights": 0.1674,
+      "Outlet": 0,
+      "x": "2016-11-09T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.226,
+      "Lights": 0.1805,
+      "Outlet": 0,
+      "x": "2016-11-09T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1938,
+      "Lights": 0.286,
+      "Outlet": 0,
+      "x": "2016-11-09T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0051,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2559,
+      "Lights": 0.286,
+      "Outlet": 0,
+      "x": "2016-11-09T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0061,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3843,
+      "Lights": 0.2857,
+      "Outlet": 0,
+      "x": "2016-11-09T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2336,
+      "Lights": 0.2272,
+      "Outlet": 0,
+      "x": "2016-11-09T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2054,
+      "Lights": 0.1698,
+      "Outlet": 0,
+      "x": "2016-11-10T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2174,
+      "Lights": 0.1708,
+      "Outlet": 0,
+      "x": "2016-11-10T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0114,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2326,
+      "Lights": 0.2859,
+      "Outlet": 0,
+      "x": "2016-11-10T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0586,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1629,
+      "Lights": 0.3929,
+      "Outlet": 0,
+      "x": "2016-11-10T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0233,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.096,
+      "Lights": 0.2514,
+      "Outlet": 0,
+      "x": "2016-11-10T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0678,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0756,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0857,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0392,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0207,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0079,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-10T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.182,
+      "Outlet": 0,
+      "x": "2016-11-10T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2429,
+      "Outlet": 0,
+      "x": "2016-11-10T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2429,
+      "Outlet": 0,
+      "x": "2016-11-10T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0838,
+      "Lights": 0.2428,
+      "Outlet": 0,
+      "x": "2016-11-10T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.139,
+      "Lights": 0.2419,
+      "Outlet": 0,
+      "x": "2016-11-10T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1869,
+      "Lights": 0.1393,
+      "Outlet": 0,
+      "x": "2016-11-10T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2681,
+      "Lights": 0.1433,
+      "Outlet": 0,
+      "x": "2016-11-10T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1396,
+      "Lights": 0.2202,
+      "Outlet": 0,
+      "x": "2016-11-10T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0552,
+      "Lights": 0.2426,
+      "Outlet": 0,
+      "x": "2016-11-10T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1158,
+      "Lights": 0.2422,
+      "Outlet": 0,
+      "x": "2016-11-10T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0752,
+      "Lights": 0.2424,
+      "Outlet": 0,
+      "x": "2016-11-10T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1285,
+      "Lights": 0.2419,
+      "Outlet": 0,
+      "x": "2016-11-11T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1448,
+      "Lights": 0.2413,
+      "Outlet": 0,
+      "x": "2016-11-11T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1623,
+      "Lights": 0.2408,
+      "Outlet": 0,
+      "x": "2016-11-11T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2263,
+      "Lights": 0.241,
+      "Outlet": 0,
+      "x": "2016-11-11T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2734,
+      "Lights": 0.1126,
+      "Outlet": 0,
+      "x": "2016-11-11T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0678,
+      "Outlet": 0,
+      "x": "2016-11-11T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.006,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-11T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-11T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-11T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-11T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-11T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-11T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-11T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1328,
+      "Outlet": 0,
+      "x": "2016-11-11T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-11T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-11T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0154,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-11T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0162,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-11T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0121,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0432,
+      "Lights": 0.2427,
+      "Outlet": 0,
+      "x": "2016-11-11T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0513,
+      "Lights": 0.2359,
+      "Outlet": 0,
+      "x": "2016-11-11T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0083,
+      "Pull Down Outlet": 0.0648,
+      "Lights": 0.2422,
+      "Outlet": 0,
+      "x": "2016-11-11T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0425,
+      "Pull Down Outlet": 0.1185,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-11T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.044,
+      "Pull Down Outlet": 0.1308,
+      "Lights": 0.243,
+      "Outlet": 0,
+      "x": "2016-11-11T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0.02,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0347,
+      "Pull Down Outlet": 0.0622,
+      "Lights": 0.2425,
+      "Outlet": 0,
+      "x": "2016-11-11T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0358,
+      "Pull Down Outlet": 0.0438,
+      "Lights": 0.2423,
+      "Outlet": 0,
+      "x": "2016-11-12T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0459,
+      "Lights": 0.2417,
+      "Outlet": 0,
+      "x": "2016-11-12T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0319,
+      "Lights": 0.2418,
+      "Outlet": 0,
+      "x": "2016-11-12T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0214,
+      "Lights": 0.2418,
+      "Outlet": 0,
+      "x": "2016-11-12T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0109,
+      "Lights": 0.03,
+      "Outlet": 0,
+      "x": "2016-11-12T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-12T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2625,
+      "Outlet": 0,
+      "x": "2016-11-12T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0274,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.3801,
+      "Outlet": 0,
+      "x": "2016-11-12T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0625,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0264,
+      "Lights": 0.3807,
+      "Outlet": 0,
+      "x": "2016-11-12T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0457,
+      "Outlet-2": 0.5584,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.3685,
+      "Outlet": 0,
+      "x": "2016-11-12T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0213,
+      "Lights": 0.3794,
+      "Outlet": 0,
+      "x": "2016-11-12T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0244,
+      "Lights": 0.3736,
+      "Outlet": 0,
+      "x": "2016-11-12T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0.0099,
+      "Pull Down Outlet": 0.0814,
+      "Lights": 0.3807,
+      "Outlet": 0,
+      "x": "2016-11-12T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0368,
+      "Lights": 0.3813,
+      "Outlet": 0,
+      "x": "2016-11-12T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0.018,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0072,
+      "Lights": 0.3804,
+      "Outlet": 0,
+      "x": "2016-11-12T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0525,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.3811,
+      "Outlet": 0,
+      "x": "2016-11-13T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0825,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0372,
+      "Lights": 0.3807,
+      "Outlet": 0,
+      "x": "2016-11-13T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0201,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0601,
+      "Lights": 0.3815,
+      "Outlet": 0,
+      "x": "2016-11-13T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0151,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0077,
+      "Lights": 0.3817,
+      "Outlet": 0,
+      "x": "2016-11-13T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0281,
+      "Lights": 0.1961,
+      "Outlet": 0,
+      "x": "2016-11-13T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0485,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0862,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1431,
+      "Lights": 0.0185,
+      "Outlet": 0,
+      "x": "2016-11-13T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0938,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-13T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.08,
+      "Lights": 0.1286,
+      "Outlet": 0,
+      "x": "2016-11-13T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2138,
+      "Lights": 0.1392,
+      "Outlet": 0,
+      "x": "2016-11-13T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1659,
+      "Lights": 0.139,
+      "Outlet": 0,
+      "x": "2016-11-13T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1662,
+      "Lights": 0.1398,
+      "Outlet": 0,
+      "x": "2016-11-14T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1955,
+      "Lights": 0.1404,
+      "Outlet": 0,
+      "x": "2016-11-14T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1866,
+      "Lights": 0.1503,
+      "Outlet": 0,
+      "x": "2016-11-14T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.092,
+      "Lights": 0.3103,
+      "Outlet": 0,
+      "x": "2016-11-14T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1007,
+      "Outlet": 0,
+      "x": "2016-11-14T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-14T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.014,
+      "Lights": 0.3198,
+      "Outlet": 0,
+      "x": "2016-11-14T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0688,
+      "Lights": 0.3182,
+      "Outlet": 0,
+      "x": "2016-11-14T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1067,
+      "Lights": 0.3183,
+      "Outlet": 0,
+      "x": "2016-11-14T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1142,
+      "Lights": 0.3189,
+      "Outlet": 0,
+      "x": "2016-11-14T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1602,
+      "Lights": 0.3181,
+      "Outlet": 0,
+      "x": "2016-11-14T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0477,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2738,
+      "Lights": 0.3185,
+      "Outlet": 0,
+      "x": "2016-11-14T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0238,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3177,
+      "Lights": 0.3174,
+      "Outlet": 0,
+      "x": "2016-11-14T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.392,
+      "Lights": 0.31,
+      "Outlet": 0,
+      "x": "2016-11-14T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0121,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2952,
+      "Lights": 0.3167,
+      "Outlet": 0,
+      "x": "2016-11-14T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0237,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1921,
+      "Lights": 0.2576,
+      "Outlet": 0,
+      "x": "2016-11-14T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2682,
+      "Lights": 0.3173,
+      "Outlet": 0,
+      "x": "2016-11-15T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3626,
+      "Lights": 0.3182,
+      "Outlet": 0,
+      "x": "2016-11-15T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2544,
+      "Lights": 0.3139,
+      "Outlet": 0,
+      "x": "2016-11-15T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1083,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0678,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0697,
+      "Lights": 0.0377,
+      "Outlet": 0,
+      "x": "2016-11-15T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0565,
+      "Lights": 0.0504,
+      "Outlet": 0,
+      "x": "2016-11-15T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.061,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0243,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-15T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1804,
+      "Outlet": 0,
+      "x": "2016-11-15T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-15T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.074,
+      "Lights": 0.2431,
+      "Outlet": 0,
+      "x": "2016-11-15T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1646,
+      "Lights": 0.2431,
+      "Outlet": 0,
+      "x": "2016-11-15T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1507,
+      "Lights": 0.2071,
+      "Outlet": 0,
+      "x": "2016-11-15T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1519,
+      "Lights": 0.1439,
+      "Outlet": 0,
+      "x": "2016-11-15T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0192,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2034,
+      "Lights": 0.1436,
+      "Outlet": 0,
+      "x": "2016-11-15T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0182,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1382,
+      "Lights": 0.2669,
+      "Outlet": 0,
+      "x": "2016-11-15T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0284,
+      "Lights": 0.2302,
+      "Outlet": 0,
+      "x": "2016-11-15T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0898,
+      "Lights": 0.2985,
+      "Outlet": 0,
+      "x": "2016-11-15T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0793,
+      "Lights": 0.3054,
+      "Outlet": 0,
+      "x": "2016-11-15T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0167,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.126,
+      "Lights": 0.3052,
+      "Outlet": 0,
+      "x": "2016-11-16T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0838,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1275,
+      "Lights": 0.2792,
+      "Outlet": 0,
+      "x": "2016-11-16T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2093,
+      "Lights": 0.3381,
+      "Outlet": 0,
+      "x": "2016-11-16T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1903,
+      "Lights": 0.2902,
+      "Outlet": 0,
+      "x": "2016-11-16T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1751,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-16T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0292,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-16T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-16T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-16T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-16T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0346,
+      "Outlet": 0,
+      "x": "2016-11-16T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1725,
+      "Outlet": 0,
+      "x": "2016-11-16T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-16T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-16T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1502,
+      "Outlet": 0,
+      "x": "2016-11-16T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-16T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.037,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-16T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0459,
+      "Lights": 0.268,
+      "Outlet": 0,
+      "x": "2016-11-16T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0492,
+      "Lights": 0.3382,
+      "Outlet": 0,
+      "x": "2016-11-16T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1176,
+      "Lights": 0.3374,
+      "Outlet": 0,
+      "x": "2016-11-16T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0794,
+      "Lights": 0.3379,
+      "Outlet": 0,
+      "x": "2016-11-16T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1308,
+      "Lights": 0.3644,
+      "Outlet": 0,
+      "x": "2016-11-16T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0804,
+      "Lights": 0.4099,
+      "Outlet": 0,
+      "x": "2016-11-16T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1513,
+      "Lights": 0.41,
+      "Outlet": 0,
+      "x": "2016-11-16T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0064,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1777,
+      "Lights": 0.251,
+      "Outlet": 0,
+      "x": "2016-11-16T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3441,
+      "Lights": 0.1686,
+      "Outlet": 0,
+      "x": "2016-11-17T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.029,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1676,
+      "Lights": 0.1691,
+      "Outlet": 0,
+      "x": "2016-11-17T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1099,
+      "Lights": 0.1699,
+      "Outlet": 0,
+      "x": "2016-11-17T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0921,
+      "Lights": 0.1709,
+      "Outlet": 0,
+      "x": "2016-11-17T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0973,
+      "Lights": 0.1423,
+      "Outlet": 0,
+      "x": "2016-11-17T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0288,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-17T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1784,
+      "Outlet": 0,
+      "x": "2016-11-17T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-17T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0066,
+      "Lights": 0.2434,
+      "Outlet": 0,
+      "x": "2016-11-17T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0946,
+      "Lights": 0.2433,
+      "Outlet": 0,
+      "x": "2016-11-17T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0434,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1684,
+      "Lights": 0.1702,
+      "Outlet": 0,
+      "x": "2016-11-17T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0707,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.258,
+      "Lights": 0.1437,
+      "Outlet": 0,
+      "x": "2016-11-17T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0.0358,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2616,
+      "Lights": 0.1437,
+      "Outlet": 0,
+      "x": "2016-11-17T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2272,
+      "Lights": 0.2351,
+      "Outlet": 0,
+      "x": "2016-11-17T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2473,
+      "Lights": 0.2428,
+      "Outlet": 0,
+      "x": "2016-11-17T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2929,
+      "Lights": 0.2358,
+      "Outlet": 0,
+      "x": "2016-11-17T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0263,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3143,
+      "Lights": 0.2193,
+      "Outlet": 0,
+      "x": "2016-11-17T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2575,
+      "Lights": 0.3964,
+      "Outlet": 0,
+      "x": "2016-11-18T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1824,
+      "Lights": 0.4119,
+      "Outlet": 0,
+      "x": "2016-11-18T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1038,
+      "Lights": 0.4117,
+      "Outlet": 0,
+      "x": "2016-11-18T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1176,
+      "Lights": 0.2233,
+      "Outlet": 0,
+      "x": "2016-11-18T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0504,
+      "Lights": 0.1324,
+      "Outlet": 0,
+      "x": "2016-11-18T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-18T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.1472,
+      "Outlet": 0,
+      "x": "2016-11-18T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-18T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0453,
+      "Lights": 0.2433,
+      "Outlet": 0,
+      "x": "2016-11-18T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0807,
+      "Lights": 0.2437,
+      "Outlet": 0,
+      "x": "2016-11-18T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0534,
+      "Lights": 0.2357,
+      "Outlet": 0,
+      "x": "2016-11-18T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0607,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-18T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0768,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-18T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2105,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-18T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3961,
+      "Lights": 0.2438,
+      "Outlet": 0,
+      "x": "2016-11-18T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3589,
+      "Lights": 0.2436,
+      "Outlet": 0,
+      "x": "2016-11-18T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3091,
+      "Lights": 0.2433,
+      "Outlet": 0,
+      "x": "2016-11-18T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2423,
+      "Lights": 0.2431,
+      "Outlet": 0,
+      "x": "2016-11-19T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.264,
+      "Lights": 0.238,
+      "Outlet": 0,
+      "x": "2016-11-19T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1963,
+      "Lights": 0.242,
+      "Outlet": 0,
+      "x": "2016-11-19T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1876,
+      "Lights": 0.2003,
+      "Outlet": 0,
+      "x": "2016-11-19T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1268,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0056,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0081,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0919,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-19T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.094,
+      "Lights": 0.0614,
+      "Outlet": 0,
+      "x": "2016-11-19T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0818,
+      "Lights": 0.4132,
+      "Outlet": 0,
+      "x": "2016-11-19T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1324,
+      "Lights": 0.4119,
+      "Outlet": 0,
+      "x": "2016-11-19T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0699,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1646,
+      "Lights": 0.4111,
+      "Outlet": 0,
+      "x": "2016-11-19T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0447,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1428,
+      "Lights": 0.412,
+      "Outlet": 0,
+      "x": "2016-11-19T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0088,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1329,
+      "Lights": 0.4118,
+      "Outlet": 0,
+      "x": "2016-11-19T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.212,
+      "Lights": 0.4115,
+      "Outlet": 0,
+      "x": "2016-11-19T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.216,
+      "Lights": 0.4117,
+      "Outlet": 0,
+      "x": "2016-11-19T23:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2496,
+      "Lights": 0.4129,
+      "Outlet": 0,
+      "x": "2016-11-20T00:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2255,
+      "Lights": 0.4065,
+      "Outlet": 0,
+      "x": "2016-11-20T01:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1597,
+      "Lights": 0.1706,
+      "Outlet": 0,
+      "x": "2016-11-20T02:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.228,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T03:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2209,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T04:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.134,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T05:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0674,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T06:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.018,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T07:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T08:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T09:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T10:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T11:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T12:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T13:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T14:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.0352,
+      "Outlet": 0,
+      "x": "2016-11-20T15:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2435,
+      "Outlet": 0,
+      "x": "2016-11-20T16:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0,
+      "Lights": 0.2431,
+      "Outlet": 0,
+      "x": "2016-11-20T17:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.0645,
+      "Lights": 0.2432,
+      "Outlet": 0,
+      "x": "2016-11-20T18:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1631,
+      "Lights": 0.1255,
+      "Outlet": 0,
+      "x": "2016-11-20T19:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2317,
+      "Lights": 0.1246,
+      "Outlet": 0,
+      "x": "2016-11-20T20:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0.0163,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.1891,
+      "Lights": 0,
+      "Outlet": 0,
+      "x": "2016-11-20T21:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.2829,
+      "Lights": 0.1698,
+      "Outlet": 0,
+      "x": "2016-11-20T22:00:00Z"
+    },
+    {
+      "Outlet-1": 0,
+      "Outlet-2": 0,
+      "Outlet-3": 0,
+      "Pull Down Outlet": 0.3664,
+      "Lights": 0.3706,
+      "Outlet": 0,
+      "x": "2016-11-20T23:00:00Z"
+    }
+  ],
+  "names": [
+    "Outlet",
+    "Outlet-1",
+    "Pull Down Outlet",
+    "Outlet-2",
+    "Outlet-3",
+    "Lights"
+  ]
+}

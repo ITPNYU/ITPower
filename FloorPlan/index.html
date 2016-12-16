@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Floor Plans</title>
+    <link rel="stylesheet" href="style.css?v=9">
+    <script src="app.js"></script>
+  </head>
+  <body>
+    <img class="base-image" src="assets/Blueprint.svg"/>
+    <img id="layer-panels" class="layer-image" src="assets/Panels.png"/>
+    <img id="layer-lights" class="layer-image" src="assets/Lights.svg"/>
+    <img id="layer-switches" class="layer-image" src="assets/Switches.svg"/>
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-panels')"> Panels
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-lights')"> Lights
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-switches')"> Switches
+  </body>
+</html>

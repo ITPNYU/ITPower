@@ -1,0 +1,23 @@
+.graph {
+  padding-bottom: 10rem;
+}
+
+.jumbotron {
+  width: 100%;
+  padding: 0;
+}
+
+.axis path {
+    fill: none;
+    stroke: #777;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font-family: Lato;
+    font-size: 13px;
+}
+
+svg {
+  width: 2000px;
+  height: 500px;
+}

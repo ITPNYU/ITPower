@@ -1,0 +1,16 @@
+img {
+  max-width: 70%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+input {
+  display: inline-block;
+  margin-left: 80%;
+}
+
+.layer-image {
+
+}
