@@ -242,9 +242,7 @@ app.get('/floordata_itp', function (req,res){
 			else if(req.query.sublocationId)
 			{
 				apiType = 'sublocation';
-				console.log("MAAATTTHHHHUUURAAA");
 				console.log(req.query.sublocationId);
-				console.log("MAAATTTHHHHUUURAAA");
 				idForAPI = req.query.sublocationId.split(',');
 				console.log(idForAPI);
 				console.log(idForAPI[0]);
