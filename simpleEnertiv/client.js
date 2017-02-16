@@ -46,11 +46,11 @@ var querystring = require('querystring');
 var clientData;
 
 var loginData = querystring.stringify({
-	'client_id':'I8epiiEFdlgFHIASP41AhSn672Spp0igd22ypOEz',
-	'client_secret': 'UfNXY20Z2rVdtLE7m36SgAw0S1GhWBzD4L0kLmD4uCMZAOHAIpMb9t2VjsF1BLgAVGCt5Deyn34ZtLiDggy0FfgHUJJZaG7eyIAX91sNltOsQbGCbnG9wB9g7MVzQCot',
+	'client_id':'',
+	'client_secret': '',
 	'grant_type': 'password',
-	'username': 'energyatitp@gmail.com',
-	'password': 'energyatitp123',
+	'username': '',
+	'password': '',
 
 });
 
