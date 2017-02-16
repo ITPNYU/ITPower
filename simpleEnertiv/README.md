@@ -407,7 +407,7 @@ request.end();
 ## Visualization using p5
 
 ## References
-[enertiv bitbucket](https://bitbucket.org/enertiv/enertiv-client/)
-[enertiv endpoints](https://api.enertiv.com/docs/)
+* [enertiv bitbucket](https://bitbucket.org/enertiv/enertiv-client/)
+* [enertiv endpoints](https://api.enertiv.com/docs/)
 
 
