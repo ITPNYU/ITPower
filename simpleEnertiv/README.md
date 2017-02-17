@@ -398,6 +398,7 @@ var request = https.request(httpsRequestOptions, saveToken);	// start it
 request.write(loginData);                       // add  body of  POST request
 request.end();
 
+```
 * We can also choose one equipment, and get its data in real time
 
 first, we get one equipment id, construct the `url` for https request, make the https request, and in the end, reset the `httpsRequestOptions`.
@@ -430,6 +431,7 @@ first, we get one equipment id, construct the `url` for https request, make the 
       'Content-Type': 'application/x-www-form-urlencoded',
       'Content-Length': loginData.length
     }
+    
 ```
 
 ## Express
@@ -456,21 +458,16 @@ function handleRequest(request, response) {
 // define what to do when the client requests `/data`:
 server.get('/data', handleRequest);         // GET request
 ```
-* In the end, your `client.js` should look like this:
-```javascript
-```
+* At this point, the `client.js` is complete.
 
 ## Visualization using p5
 * Add a `public` folder with an empty p5 sketch template
 * In the sketch.js, use `loadJSON` method to get data from http://localhost:8080/data every 10 seconds.
 * parse data into `device`, `time`, `usage`, and make a chart.
 
-```
 * Another p5 example: see `enertive_p5_static_json` folder
 [demo](http://alpha.editor.p5js.org/mathura/sketches/)Sy86Na7-x
 
 ## References
 * [enertiv bitbucket](https://bitbucket.org/enertiv/enertiv-client/)
 * [enertiv endpoints](https://api.enertiv.com/docs/)
-
-
