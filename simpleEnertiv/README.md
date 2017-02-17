@@ -398,16 +398,76 @@ var request = https.request(httpsRequestOptions, saveToken);	// start it
 request.write(loginData);                       // add  body of  POST request
 request.end();
 
+```
+* We can also choose one equipment, and get its data in real time
 
+first, we get one equipment id, construct the `url` for https request, make the https request, and in the end, reset the `httpsRequestOptions`.
+
+```javascript
+    // construct url
+    // get the data of one equipment for the last 3 minutes
+    var toTime = new Date();
+    toTime.setHours(toTime.getHours());
+    var fromTime = new Date(toTime);
+
+    var durationInMinutes = 3;
+    console.log(toTime);
+    console.log(fromTime);
+    fromTime.setMinutes(toTime.getMinutes() - durationInMinutes);
+
+    var url = '/api/equipment/a40be1ed-5a9d-4b35-b500-0aff698e8c79/data/?fromTime=' +
+    fromTime.toISOString() +
+    '&toTime=' +
+    toTime.toISOString() +
+    '&interval=min';
+
+    getInfo(url, accessToken);
+    console.log(result);
+
+    // reset httpsRequestOptions
+    httpsRequestOptions.path = '/o/token/';
+    httpsRequestOptions.method = 'POST';
+    httpsRequestOptions.headers = {
+      'Content-Type': 'application/x-www-form-urlencoded',
+      'Content-Length': loginData.length
+    }
+    
 ```
 
-
 ## Express
+* How to install Express?
+`$ npm install express`
+
+* Add express to the `client.js`
+```javascript
+var express = require('express'); // include the express library
+var server = express();           // create a server using express
+var message = "Hello Client!"
+
+// start the server:
+server.listen(8080);
+
+server.use('/', express.static('public'));   // set a static file directory
+
+// send message to the client
+function handleRequest(request, response) {
+  response.send(message);         // send message to the client
+  response.end();                 // close the connection
+}
+
+// define what to do when the client requests `/data`:
+server.get('/data', handleRequest);         // GET request
+```
+* At this point, the `client.js` is complete.
 
 ## Visualization using p5
+* Add a `public` folder with an empty p5 sketch template
+* In the sketch.js, use `loadJSON` method to get data from `http://localhost:8080/data` every 10 seconds.
+* parse data into `device`, `time`, `usage`, and make a chart.
+
+* Another p5 example is in the `enertive_p5_static_json` folder
+[demo](http://alpha.editor.p5js.org/mathura/sketches/Sy86Na7-x)
 
 ## References
 * [enertiv bitbucket](https://bitbucket.org/enertiv/enertiv-client/)
 * [enertiv endpoints](https://api.enertiv.com/docs/)
-
-

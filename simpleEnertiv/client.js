@@ -24,6 +24,24 @@
 
 var https = require('https');
 var querystring = require('querystring');
+
+var express = require('express'); // include the express library
+var server = express();           // create a server using express
+var message = "Hello Client!"
+
+// start the server:
+server.listen(8080);
+
+server.use('/', express.static('public'));   // set a static file directory
+
+function handleRequest(request, response) {
+  response.send(message);         // send message to the client
+  response.end();                 // close the connection
+}
+
+// define what to do when the client requests something:
+server.get('/data', handleRequest);         // GET request
+
 /*
 
  set up the options for the login.
@@ -81,8 +99,34 @@ function saveToken(response) {
     result = JSON.parse(result);
     accessToken = result.access_token;
 		// getInfo('/api/client/', accessToken);
-		getInfo('/api/location/5ae33444-387d-46f6-9be0-3c4b54f53561/', accessToken);
+
+    // construct url
+    // get the data of one equipment for the last 3 minutes
+    var toTime = new Date();
+    toTime.setHours(toTime.getHours());
+    var fromTime = new Date(toTime);
+
+    var durationInMinutes = 3;
+    console.log(toTime);
+    console.log(fromTime);
+    fromTime.setMinutes(toTime.getMinutes() - durationInMinutes);
+
+    var url = '/api/equipment/a40be1ed-5a9d-4b35-b500-0aff698e8c79/data/?fromTime=' +
+    fromTime.toISOString() +
+    '&toTime=' +
+    toTime.toISOString() +
+    '&interval=min';
+
+		getInfo(url, accessToken);
 		console.log(result);
+
+    // reset httpsRequestOptions
+    httpsRequestOptions.path = '/o/token/';
+    httpsRequestOptions.method = 'POST';
+    httpsRequestOptions.headers = {
+      'Content-Type': 'application/x-www-form-urlencoded',
+      'Content-Length': loginData.length
+    }
   });
 }
 
@@ -106,6 +150,8 @@ function getInfo(path, token) {
       clientData = result;
       console.log('****************');
       console.log(clientData);
+      // update message
+      message = clientData;
       console.log('****************');
       console.log(accessToken);
       console.log('****************');
@@ -113,7 +159,10 @@ function getInfo(path, token) {
   });
 }
 
-// make the login request:
-var request = https.request(httpsRequestOptions, saveToken);	// start it
-request.write(loginData);                       // add  body of  POST request
-request.end();
+// make the login request evey 10 sec:
+setInterval(function() {
+  var request = https.request(httpsRequestOptions, saveToken);	// start it
+  request.write(loginData);                       // add  body of  POST request
+  request.end();
+  console.log('Hello');
+}, 10000);
