@@ -11,7 +11,7 @@
 
 ## Summary of steps
 
-* Get a clientID that will help us access the data on the enertiv server - [sample details](https://api.enertiv.com/o/applications/11/)
+* Get a clientID that will help us access the data on the enertiv server - [sample details](https://api.enertiv.com/o/applications/)
 * Use the login details to create a string to send to the server
 
 ```javascript
