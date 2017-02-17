@@ -438,7 +438,7 @@ first, we get one equipment id, construct the `url` for https request, make the 
 * How to install Express?
 `$ npm install express`
 
-* Add express to the client.js
+* Add express to the `client.js`
 ```javascript
 var express = require('express'); // include the express library
 var server = express();           // create a server using express
@@ -462,11 +462,11 @@ server.get('/data', handleRequest);         // GET request
 
 ## Visualization using p5
 * Add a `public` folder with an empty p5 sketch template
-* In the sketch.js, use `loadJSON` method to get data from http://localhost:8080/data every 10 seconds.
+* In the sketch.js, use `loadJSON` method to get data from `http://localhost:8080/data` every 10 seconds.
 * parse data into `device`, `time`, `usage`, and make a chart.
 
-* Another p5 example: see `enertive_p5_static_json` folder
-[demo](http://alpha.editor.p5js.org/mathura/sketches/)Sy86Na7-x
+* Another p5 example is in the `enertive_p5_static_json` folder
+[demo](http://alpha.editor.p5js.org/mathura/sketches/Sy86Na7-x)
 
 ## References
 * [enertiv bitbucket](https://bitbucket.org/enertiv/enertiv-client/)
