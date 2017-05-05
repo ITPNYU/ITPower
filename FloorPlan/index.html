@@ -7,12 +7,19 @@
     <script src="app.js"></script>
   </head>
   <body>
-    <img class="base-image" src="assets/Blueprint.svg"/>
-    <img id="layer-panels" class="layer-image" src="assets/Panels.png"/>
-    <img id="layer-lights" class="layer-image" src="assets/Lights.svg"/>
-    <img id="layer-switches" class="layer-image" src="assets/Switches.svg"/>
-    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-panels')"> Panels
-    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-lights')"> Lights
-    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-switches')"> Switches
+    <img class="base-image" src="assets/architecture.png"/>
+    <img id="layer-all-outlets" class="layer-image" src="assets/all-outlets.png"/>
+    <img id="layer-all-panels" class="layer-image" src="assets/all-panels.png"/>
+    <img id="layer-all-rooms" class="layer-image" src="assets/all-rooms.png"/>
+    <img id="layer-legend" class="layer-image" src="assets/legend.png"/>
+    <img id="layer-lights-switches" class="layer-image" src="assets/lights-switches.png"/>
+    <img id="layer-panel-outlet" class="layer-image" src="assets/panel-outlet.png"/>
+
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-all-rooms')"> Room Names
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-all-outlets')"> All Outlets
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-all-panels')"> All Panels
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-lights-switches')"> Lights Switches
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-legend')"> Panel Legend
+    <input type="checkbox" name="layers" value="off" onchange="toggle('layer-panel-outlet')"> Panel Outlet Mapping
   </body>
 </html>
