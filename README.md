@@ -4,7 +4,7 @@ ITPower is an interdisplinary research group at NYU ITP consisting of faculties,
 
 ## Projects
 
-Below is the list of projects that ITPower has worked on for the past few years.
+Below is a list of projects that ITPower has worked on for the past few years.
 
 ### 2020
 * ITP Weather Band
