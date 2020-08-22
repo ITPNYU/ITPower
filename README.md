@@ -1,13 +1,13 @@
 ## ITPower
 
-ITPower is an interdisplinary research group at NYU ITP consisting of faculties, residents, and students. We collaboratively explore how to use technology for a sustainable future through creative projects that involves researching, hacking, engineering, designing, and art making.
+ITPower is an interdisciplinary research group at NYU ITP consisting of students, staff, faculty, and alumni. We collaboratively explore how to use technology for a sustainable future through creative projects that involve researching, hacking, engineering, designing, and art making.
 
 ## Projects
 
 Below is a list of projects that ITPower has worked on for the past few years.
 
 ### 2020
-* ITP Weather Band
+* [ITP Weather Band](https://www.youtube.com/channel/UCe3Dx3kf--1eICcKGkuHcYw)
 * Tweet-a-Watt
 
 ### 2019
