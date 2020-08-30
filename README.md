@@ -38,6 +38,7 @@ Introducing ITPower
 ### Introducing ITPower
 * [Spring 2020, Kick-off meeting for new students](https://docs.google.com/presentation/d/1rAN0UewZlUv0FUbhHXeQAonmqp9ORkQW33SSHvaOZ-0/edit?usp=sharing)
 * [Fall 2019, Kick-off meeting for new students](https://docs.google.com/presentation/d/1q_RjpaVuEfhgglWfAII8ssxY-gNCeYAw9f6AQ8d8g8s/edit?usp=sharing)
+* [Fall 2018, at Jeff's Energy class](https://docs.google.com/presentation/d/1uf6m-eI-bykDNTVLUhG-GuslW_zxcaVS2oH5c-TZ5V4/edit?usp=sharing)
 
 ## The Team
 
