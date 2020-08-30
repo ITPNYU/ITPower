@@ -11,14 +11,14 @@ Below is a list of projects that ITPower has worked on for the past few years.
 * Tweet-a-Watt
 
 ### 2019
-* ITP Work Bench (Solar Cart)
-* Weather Station
+* [ITP Work Bench (Solar Cart)](https://itp.nyu.edu/classes/itpower/2019/10/04/solar-cart-guide/)
+* [Weather Station](https://github.com/ITPNYU/ITPower/tree/master/WeatherStation)
 * Tweet-a-Watt
 * 370 Jay Study
 * Reading Group
 
 ### 2018
-* DIY Current Sensing
+* [DIY Current Sensing](https://itp.nyu.edu/classes/itpower/blog/)
 * Solar Panel and Battery Monitoring/Maintaining
 
 ### 2017
