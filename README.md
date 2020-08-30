@@ -31,7 +31,7 @@ Below is a list of projects that ITPower has worked on for the past few years.
 ## Archives
 
 * [ITPower Google Drive (permission required)](https://drive.google.com/drive/folders/0B_qEYMinFS_FejlkUDZiR3JSM1E?usp=sharing): internal documents, meeting logs, etc
-* Introducing ITPower 
-** [Spring 2020, Kick-off meeting for new students](https://docs.google.com/presentation/d/1rAN0UewZlUv0FUbhHXeQAonmqp9ORkQW33SSHvaOZ-0/edit?usp=sharing)
-** [Fall 2019, Kick-off meeting for new students](https://docs.google.com/presentation/d/1q_RjpaVuEfhgglWfAII8ssxY-gNCeYAw9f6AQ8d8g8s/edit?usp=sharing)
+Introducing ITPower 
+* [Spring 2020, Kick-off meeting for new students](https://docs.google.com/presentation/d/1rAN0UewZlUv0FUbhHXeQAonmqp9ORkQW33SSHvaOZ-0/edit?usp=sharing)
+* [Fall 2019, Kick-off meeting for new students](https://docs.google.com/presentation/d/1q_RjpaVuEfhgglWfAII8ssxY-gNCeYAw9f6AQ8d8g8s/edit?usp=sharing)
 
