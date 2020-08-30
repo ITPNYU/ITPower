@@ -1,6 +1,6 @@
 ## ITPower
 
-ITPower is an interdisciplinary research group at NYU ITP consisting of students, staff, faculty, and alumni. We collaboratively explore how to use technology for a sustainable future through creative projects that involve researching, hacking, engineering, designing, and art making.
+ITPower is an interdisciplinary research group at NYU ITP consisting of students, staff, faculty, and alumni. We collaboratively explore how to use technology for a sustainable future through creative projects that are related to energy and power management. 
 
 ## Projects
 
