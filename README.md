@@ -7,7 +7,7 @@ ITPower is an interdisciplinary research group at NYU ITP consisting of students
 Below is a list of projects that ITPower has worked on for the past few years.
 
 ### 2020
-* [ITP Weather Band](https://www.youtube.com/channel/UCe3Dx3kf--1eICcKGkuHcYw)
+* [ITP Weather Band](https://www.youtube.com/channel/UCe3Dx3kf--1eICcKGkuHcYw) – [new github repo here](https://github.com/ITPNYU/Weather-Band)
 * Tweet-a-Watt
 
 ### 2019
@@ -41,5 +41,6 @@ Introducing ITPower
 * [Fall 2018, at Jeff's Energy class](https://docs.google.com/presentation/d/1uf6m-eI-bykDNTVLUhG-GuslW_zxcaVS2oH5c-TZ5V4/edit?usp=sharing)
 
 ## The Team
-
-* to be added
+* Faculty: Tom Igoe (founder), Jeff Feddersen (founder), Yeseul Song
+* Current Residents (2020-2021): Arnab Chakravarty ('20), Guillermo Montecinos ('20)
+* Current & Past Members: Atchareeya Jattuporn, Cy Kim, Schuyler W DeVos, Chun Song, Nuntinee T ('20), Ching-hsi Chou ('20), Brent Bailey ('20), Morgan B Mueller ('20), Jesse Simpson ('19), Alden Jones (’19), Beverly Chou (’19), Elizabeth Ferguson (’19), Luming Hao (’20), Jenny Lim ('18), Rushali Paratey ('18), Jasmin Soltani ('18), Mathura Govindarajan ('17), Viniyata Pany ('17), Jingwen Zhu ('16), Yining Shi ('16), 2 amazing walkie-talkies, (+ please add names for the history, if I missed any!)
